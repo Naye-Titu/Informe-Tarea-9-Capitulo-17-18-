@@ -13,7 +13,15 @@ INFORME DE TAREA
 
 Objetivo General
 
+• Desarrollar un análisis critico a la hora de disponer de un circuito RL o RC que cuenta con resonancias en series o paralelo para mejorar la comprensión de un circuito que tenga alguna similitud con lo nombre anteriormente
+
 Objetivos específicos.
+
+• Determinar la impedancia de un circuito RLC en serie y paralelo
+
+• Analizar circuitos RLC con resonancias en serie y paralelo
+
+• Analizar el funcionamiento y las operaciones de filtros RC y RL pasabajas
 
 2.- MARCO TEÓRICO
 
@@ -21,9 +29,25 @@ Objetivos específicos.
 CAPITULO 17:CIRCUITOS RLC Y RESONANCIA
 ------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/105722861/187347598-a907a6ac-af82-4d1d-a870-63d5d1ef28b7.png)
+
+![image](https://user-images.githubusercontent.com/105722861/187347610-c13adc20-84b2-4a61-ac04-2d00a2969ee2.png)
+
+![image](https://user-images.githubusercontent.com/105722861/187347628-bdcb3f20-29c3-4961-ab54-fcf565c0d1db.png)
+
+![image](https://user-images.githubusercontent.com/105722861/187347658-5db192e1-f694-411d-88c3-e3bb5297fb01.png)
+
+![image](https://user-images.githubusercontent.com/105722861/187347742-d82d825e-a69b-4e47-a9ec-1a0a69ae6a73.png)
+
+![image](https://user-images.githubusercontent.com/105722861/187347795-1a84b82e-b877-4733-9056-b863d2e8da34.png)
+
 ------------------------------------------------------------------------------
 CAPITULO 18:CIRCUITOS RLC Y RESONANCIA
 ------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/105722861/187347838-733fb5c3-aedf-45c4-8091-9f44ba064415.png)
+
+![image](https://user-images.githubusercontent.com/105722861/187347865-c88abca9-1529-443c-850a-159fe26b5ff9.png)
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
