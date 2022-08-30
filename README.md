@@ -107,6 +107,8 @@ CAPITULO 18
 
 5.- CONCLUSIONES
 
+* En el noveno informe de tarea vimos con mejor detenimiento el circuito RLC los cuales unen dos componentes que ya vimos tanto en clases como en informes anteriores: bobinas y capacitores. En este informe definimos lo que son cada uno de estos circuitos y cómo funcionan en diferentes áreas. Ayudandonos a mejorar cieros parámetros. Mostramos también las ordenes de cada modelo, teniendo circuitos de primer y segundo orden. De igual forma entendimos cada circuitos en circunstancias de serie y paralelos, incluso con ambas en un solo sistema. Entendimos como se pueden aplicar en la vida real y cuales son sus usos más cotidianos. Luego realizamos los ejercicios propuestos para poder entender mejor a cada circuito. Completando modelos y resolviendo matemáticamente cada fórmula propuesta. Al final logramos entender el uso y la eficacia de cada circuito en diferentes áreas.
+
 6.- BIBLIOGRAFÍA
 
 THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 726-808).México: Pearson Educación de México, S.A. de C.V.
